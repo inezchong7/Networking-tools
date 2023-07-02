@@ -17,3 +17,11 @@
 
 <h4>⚒️<b>Traceroute:</b></h4>
 <p>Maps your request's path as it heads to the target machine. Allows you to see every intermediate step/ server between your computer and the resource you requested.</p>
+<img src="https://github.com/inezchong7/Networking-tools/assets/106855786/4699926e-0d78-4e98-b0be-064afd11387b">
+<img src="https://github.com/inezchong7/Networking-tools/assets/106855786/74b7f17b-dd66-4a96-9a2a-15319330270d">
+
+<h4>⚒️<b>WHOIS:</b></h4>
+<p>Query who a domain name is registered to. </p>
+
+<h4>⚒️<b>Dig:</b></h4>
+<p>
