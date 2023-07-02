@@ -22,9 +22,10 @@
 
 <h4>⚒️<b>WHOIS:</b></h4>
 <p>Query who a domain name is registered to. </p>
+<img src="https://github.com/inezchong7/Networking-tools/assets/106855786/52d631f9-deae-425d-b30a-fef86a432cbd">
 
 <h4>⚒️<b>Dig:</b></h4>
 <p>Manually query recursive DNS servers of our choice for information about domains. Useful for network troubleshooting. </p>
-<img src="">
+<img src="https://github.com/inezchong7/Networking-tools/assets/106855786/c9e4d463-5587-4398-ae49-651a1d29851c">
 
 
