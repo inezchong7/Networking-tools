@@ -24,4 +24,5 @@
 <p>Query who a domain name is registered to. </p>
 
 <h4>⚒️<b>Dig:</b></h4>
-<p>
+<p>Manually query recursive DNS servers of our choice for information about domains. Useful for network troubleshooting. </p>
+<img src="">
